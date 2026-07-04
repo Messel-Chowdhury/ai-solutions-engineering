@@ -9,6 +9,7 @@ This repository documents my hands-on learning journey through a 12-month AI Sol
 - Build AI engineering skills
 - Create production-ready AI projects
 - Develop a professional GitHub portfolio
+- Build a strong software engineering foundation
 
 ## Status
 
